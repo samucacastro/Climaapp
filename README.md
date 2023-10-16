@@ -22,7 +22,7 @@ O projeto mostra a condição climática de um local conforme o CEP informado na
 
 ### :iphone: Mobile
 
-<img src="https://placehold.co/200x400" />
+<img src="[https://placehold.co/200x400](https://i.ibb.co/nPR9Y5D/celular.png)" />
 
 [Figma do Projeto](https://figma.com/)
 
