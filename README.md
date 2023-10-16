@@ -41,38 +41,22 @@ O projeto mostra a condição climática de um local conforme o CEP informado na
 ```shell
 # 1. Clone o projeto
 
-git clone <urlProjeto>
+git clone <https://github.com/samucacastro/Climaapp>
 
 # 2. Instale as dependências
 
 npm install
 
-# 3. Execute o backend
+# 3. Execute o projeto
 
-npm run backend
+node index.js
 
-# 4. Execute o Frontend
-
-npm run dev
 ```
-
-## :sassy_man: Endpoints
-
-- GET /user - Lista todos os usuários
-- GET /user/:id - Busca o usuário do id indicado
-- POST /user- Cria um usuário
--
 
 ## :technologist: Autor e Contribuidores
 
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px" />
+<a href="https://github.com/samucacastro">
+<img src="https://samuelcastro.epizy.com/assets/img/profile.webp" width="50px" />
 </a>
 
 ## :scroll: Licença do Projeto
@@ -81,6 +65,6 @@ npm run dev
 
 ## :writing_hand: Dados do Projeto
 
-<img src="https://img.shields.io/github/stars/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-closed/jessicamedeirosp/PROJETO-CSS?style=social">
+<img src="https://img.shields.io/github/stars/samucacastro/Climaapp?style=social">
+<img src="https://img.shields.io/github/issues-pr-raw/samucacastro/Climaapp?style=social">
+<img src="https://img.shields.io/github/issues-closed/samucacastro/Climaapp?style=social">
