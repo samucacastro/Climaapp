@@ -1,7 +1,5 @@
 # Climaapp
 
-<img src="https://placehold.co/800x200" align="center"/>
-
 O projeto mostra a condição climática de um local conforme o CEP informado na URL, utilizando a API de clima OpenWeatherMap.
 
 [Acesse o projeto em produção](https://projetocss-jesscoder.netlify.app/)
@@ -63,8 +61,4 @@ node index.js
 
 [Licenca MIT License](http://creativecommons.org/licenses/by)
 
-## :writing_hand: Dados do Projeto
 
-<img src="https://img.shields.io/github/stars/samucacastro/Climaapp?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/samucacastro/Climaapp?style=social">
-<img src="https://img.shields.io/github/issues-closed/samucacastro/Climaapp?style=social">
