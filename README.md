@@ -56,7 +56,7 @@ node index.js
 ## :technologist: Autor e Contribuidores
 
 <a href="https://github.com/samucacastro">
-<img src="https://samuelcastro.epizy.com/assets/img/profile.webp" width="50px" />
+<img src="https://i.ibb.co/jyHf75Q/profile-2.webp" width="50px" />
 </a>
 
 ## :scroll: Licença do Projeto
