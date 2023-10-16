@@ -1,1 +1,85 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	height: 100vh;
+	background: rgb(180,58,69);
+	background: linear-gradient(0deg, rgba(180,58,69,1) 0%, rgba(252,152,69,1) 100%);
+}
+header{
+	height: 10vh;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+header span{
+	font-size: 5rem;
+	padding: 20px;
+}
 
+main{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+main section{
+	display: flex;
+	flex-direction: column;
+}
+main section img{
+	height: 28vh;
+}
+main section span#graus{
+	font-weight: bold;
+	font-size: 12rem;
+	font-family: arial;
+	text-align: center;
+}
+main section span#sensacao{
+	font-weight: bold;
+	font-size: 4vh;
+	font-family: arial;
+	text-align: center;
+}
+main section span#cidade{
+	font-weight: bold;
+	font-size: 6rem;
+	font-family: arial;
+	text-align: center;
+	border-radius: 5px;
+	color: #dddbdb;
+}
+footer{
+	position: absolute;
+	display: flex;
+	justify-content: space-around;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	color: #fff;
+}
+footer section{
+	width: 33vw;
+	padding: 10px;
+	text-align: center;
+	font-family: arial;
+}
+footer section span{
+	font-size: 3rem;
+}
+footer section h6{
+	font-size: 50px;
+}
+@media screen and (min-width: 1024px){
+	main section span#cidade{
+		font-size: 3rem;
+	}
+	header span{
+	font-size: 3rem;
+}
+	main section span#graus{
+		font-size: 8rem;
+	}
+}
